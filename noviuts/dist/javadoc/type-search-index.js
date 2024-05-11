@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"noviuts","l":"membalikkan_array"},{"p":"noviuts","l":"menggabung_array"},{"p":"noviuts","l":"Noviuts"}];updateSearchResults();
